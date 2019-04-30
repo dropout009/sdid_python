@@ -1,2 +1,5 @@
 # sdid_python
-replication python code for synthetic difference in difference simulation. please check   https://github.com/swager/sdid-script
+
+Replication python code for synthetic difference in difference simulation. 
+
+Original R code is here: https://github.com/swager/sdid-script
